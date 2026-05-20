@@ -2,3 +2,4 @@ more tests!
 
 To do after training:
 - add git hints on arc site to obsidian notes
+- extended reading section 
